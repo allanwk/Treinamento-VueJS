@@ -1,0 +1,123 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 620143,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Allan"
+      },
+      "title": "TEste",
+      "description": "",
+      "location": "",
+      "date": "2022-08-03T12:48:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 1707508,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Allan"
+      },
+      "title": "Teste2",
+      "description": "",
+      "location": "LA",
+      "date": "2022-08-04T17:20:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 2088662,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Allan"
+      },
+      "title": "Evento de teste",
+      "description": "",
+      "location": "",
+      "date": "2022-08-03T13:17:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    },
+    {
+      "id": 1037141,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Allan"
+      },
+      "title": "a",
+      "description": "a",
+      "location": "a",
+      "date": "2022-08-01T13:21:00.000Z",
+      "time": "14:00",
+      "attendees": []
+    },
+    {
+      "id": 9698308,
+      "user": {
+        "id": "abc123",
+        "name": "Allan"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Allan"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
